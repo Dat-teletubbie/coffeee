@@ -1,0 +1,31 @@
+
+.middleparttext{
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.middleimage{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cardr{
+ 
+   display: flex;
+   justify-content: center;
+
+}
+.service{
+    display: flex;
+    
+    justify-content: center;
+}
+
+.prot{
+    display: flex;
+    
+    justify-content: center;
+}
+
